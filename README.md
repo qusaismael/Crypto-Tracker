@@ -2,6 +2,10 @@
 
 A cryptocurrency tracker powered by the CoinMarketCap API.
 
+![image](https://github.com/user-attachments/assets/da7a3414-5f4f-4692-851f-d1c60ca9833d)
+![image](https://github.com/user-attachments/assets/09e4b31c-8ce1-414b-8e46-9039fd745261)
+![image](https://github.com/user-attachments/assets/880cd76f-591f-4a6a-870f-b59485545f53)
+
 ## Setting Up Your CoinMarketCap API Key
 
 CryptoTracker uses the CoinMarketCap API to provide cryptocurrency data. To use this extension, you'll need to obtain your own CoinMarketCap API key by following these steps:
